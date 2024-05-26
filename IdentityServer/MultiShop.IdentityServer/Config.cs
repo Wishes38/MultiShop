@@ -65,7 +65,7 @@ namespace MultiShop.IdentityServer
             //Manager
             new Client
             {
-                ClientId="MultiShopManagerIdd",
+                ClientId="MultiShopManagerId",
                 ClientName="Multi Shop Manager User",
                 AllowedGrantTypes=GrantTypes.ResourceOwnerPassword,
                 ClientSecrets={new Secret("multishopsecret".Sha256()) },
