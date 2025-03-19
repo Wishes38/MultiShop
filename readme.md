@@ -1,1 +1,1 @@
-Selamýn Alekyküm
+
